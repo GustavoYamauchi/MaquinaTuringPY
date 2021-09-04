@@ -3,7 +3,7 @@ from maquina import Maquina
 
 
 # Abrir e ler o arquivo de texto
-f = open("testes.txt", "r")
+f = open("config.txt", "r")
 arquivo = f.read().splitlines()
 
 
